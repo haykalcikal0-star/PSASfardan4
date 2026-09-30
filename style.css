@@ -22,3 +22,11 @@ footer{
     background-color: aqua;
     text-align: center;
 }
+.gambar{
+    margin-bottom: 20px;
+    justify-content: center;
+    max-width: 700px;
+    margin-top: 15px;
+    justify-items: center;
+    margin-left: 15px;
+}
